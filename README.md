@@ -33,4 +33,5 @@ I'm Michael Nichols, a GRC Analyst specializing in information security framewor
 - [Data Classification Policy](./Data%20Classification%20Handling%20Policy.pdf)
 - [Vendor Management Policy](./Vendor%20Management%20Policy.pdf)
 - [Incident Response Policy](./Incident%20Response%20Policy.pdf)
+- [Introduction Guide](./SB%20InfoSec%20Policy%20Starter%20Kit%20-%20Introduction%20Guide.pdf)
 - [Implementation Guide](./SB%20InfoSec%20Policy%20Starter%20Kit%20-%20Introduction%20Guide.pdf)
