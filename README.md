@@ -9,6 +9,7 @@ A comprehensive set of information security policies designed specifically for s
 - Data Classification Policy 
 - Vendor Management Policy
 - Incident Response Policy
+- Introduction Guide
 - Implementation Guide
 
 ## About This Resource
