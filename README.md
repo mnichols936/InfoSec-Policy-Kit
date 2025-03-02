@@ -17,7 +17,7 @@ This starter kit provides small businesses with the essential security policies 
 
 ## About Me
 
-I'm Michael Nichols, a GRC Analyst specializing in information security frameworks and compliance. Connect with me on [LinkedIn](your-linkedin-url).
+I'm Michael Nichols, a GRC Analyst specializing in information security frameworks and compliance. Connect with me on [LinkedIn](https://www.linkedin.com/in/michaelnicholsprofile/).
 
 ## How to Use
 
@@ -30,7 +30,7 @@ I'm Michael Nichols, a GRC Analyst specializing in information security framewor
 
 - [Information Security Policy](./Information%20Security%20Policy.pdf)
 - [Acceptable Use Policy](./Acceptable%20Use%20Policy.pdf)
-- [Data Classification Policy](./Data%20Classification%20Policy.pdf)
+- [Data Classification Policy](./Data%20Classification%20Handling%20Policy.pdf)
 - [Vendor Management Policy](./Vendor%20Management%20Policy.pdf)
 - [Incident Response Policy](./Incident%20Response%20Policy.pdf)
-- [Implementation Guide](./Implementation%20Guide.pdf)
+- [Implementation Guide](./SB%20InfoSec%20Policy%20Starter%20Kit%20-%20Introduction%20Guide.pdf)
